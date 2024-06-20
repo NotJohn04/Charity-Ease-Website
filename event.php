@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Charity Ease Malaysia</title>
-
+<!-- lets try siome thing -->
     <style>
         
         body{
@@ -248,7 +248,7 @@
 
             </div>
             <div class="des-content">
-                
+                hello
                 As the spirit of #GivingTuesday sweeps across the globe, we invite you to be a part of a movement that celebrates generosity in its most joyous form. Join us on Saturday, 30th November 2030, for a day where every act of kindness resonates with the heartbeat of the community.
                 Dive into our "Charity Bash" where fun, festivities, and philanthropy come together in a spectacular blend. It's more than an event—it's a carnival of compassion, set against the backdrop of vibrant laughter and shared purpose. We're bringing together the young and old, as we dance, sing, and give back to the community that binds us all.
                 Located at the heart of Any City, on 123 Anywhere St, this event is your chance to contribute to a cause while creating unforgettable memories. Whether you're swinging to live music, savoring delightful treats, or participating in our workshops, you're part of a larger narrative that fosters change and upliftment.
